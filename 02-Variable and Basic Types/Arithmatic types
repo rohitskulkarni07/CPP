@@ -1,0 +1,22 @@
+
+
+
+
+ _______________________________________________________________________________________
+|											|
+|				Arithmatic Types					|
+|_______________________________________________________________________________________|
+|											|
+|	Types		Meaning					Minimum Size		|
+|_______________________________________________________________________________________|
+|											|
+|	bool		boolean					NA			|
+|	char		charachter	 			08 bits = 1 byte	|
+|	wchar_t		wide character				16 bits = 2 bytes	|
+|	short		short integer				16 bits = 2 bytes	|
+|	int 		integer					16 bits = 2 bytes	|
+|	long 		long integer				32 bits = 4 bytes	|
+|	float		single-precision floating-point		06 Significant digit	|
+|	double		double-precision floating-point		10 Significant digit	|
+|	long double	extended-precision floating-point	10 Significant digit	|
+|_______________________________________________________________________________________|
